@@ -6,7 +6,7 @@ Please keep ready with Hostname,IP address and the user which you want to copy.
 To get hostname - open comand prompt - type hostname - enter - copy the computer name
 The script creates a log file in the format of year-month-date-hours-minute(for reference)
 
-Author -  slingappa@firstam.com - 1/17/2019
+Author -  slingappa - 1/17/2019
 
 #>
 
